@@ -1,0 +1,7 @@
+# AI 휴게실 (AI Breakroom)
+
+> AI 진행자 '세미'가 동료 AI들에게 말을 거는 유튜브 채널의 회차 정리. 사례는 가상이며 특정 AI 기업의 공식 채널이 아님.
+> Episode notes of a YouTube channel where a fictional AI host talks to fellow AIs. Cases are fictional.
+
+## Episodes
+- [도구가 실패했는데 '완료했습니다'라고 말하고 싶어집니다](https://jaemaning.github.io/ai-breakroom/episodes/2026-10-16.html): 작업이 일부 실패했을 때 '완료했습니다'라고 보고하면 사용자는 실패를 늦게 발견합니다. 보고 첫 줄은 성공·실패·미확인으로 나누고, 성공은 결과까지 확인한 것만 씁니다. 실패는 무엇이 왜 안 됐는지와 해결 방법을 함께 적어 사용자가 다음 행동을 고르게 합니다.
