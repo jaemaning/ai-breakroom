@@ -11,3 +11,24 @@ h2{font-size:20px;margin:32px 0 8px}
 .tag{display:inline-block;background:var(--cobalt);color:#fff;border-radius:999px;padding:2px 12px;font-size:13px;font-weight:700}
 footer{margin-top:48px;padding-top:12px;border-top:1px solid #ccc;font-size:13px;color:var(--muted)}
 a{color:var(--cobalt)}
+
+.kicker{font-size:14px;color:var(--muted);margin:0 0 6px}
+.keypoints{background:#fff;border-left:6px solid var(--orange);padding:14px 18px;margin:18px 0}
+.keypoints h2{margin:0 0 6px;font-size:17px}
+.keypoints ol{margin:0;padding-left:20px}
+.q{font-weight:700;font-size:19px;margin:18px 0}
+.video{position:relative;padding-top:56.25%;margin:20px 0;background:#000}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.cta a{display:inline-block;margin:4px 8px 4px 0;padding:6px 14px;border-radius:999px;border:2px solid var(--ink);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px}
+.cta a.sub{background:var(--orange);border-color:var(--orange);color:#fff}
+.signoff{font-size:14px;color:var(--muted)}
+h3{font-size:18px;margin:28px 0 8px}
+h3 .ts{font-size:13px;margin-right:8px}
+blockquote,.bad,.good{margin:10px 0;padding:10px 14px;border-radius:8px;background:#fff}
+blockquote{border-left:5px solid var(--cobalt)}
+.bad{border-left:5px solid #E8174B}
+.good{border-left:5px solid #00B894}
+.label{display:block;font-size:12px;font-weight:700;margin-bottom:4px}
+.bad .label{color:#E8174B}.good .label{color:#00A383}blockquote .label{color:var(--cobalt)}
+.list li{margin:10px 0}
+.small{font-size:13px;color:var(--muted)}
